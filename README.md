@@ -4,7 +4,7 @@
 Out of the box, VSCode works just fine. However, if you want to increase our workflow's productivity and supercharge your coding speed, then these top 5 JavaScript extensions can help you achieve just that.
 
 ---
-## About
+### About
 
 GitHub: https://github.com/BretDoyle/JavaScript-Extensions-Pack---JS-Essentials
 
