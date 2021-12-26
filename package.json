@@ -8,6 +8,7 @@
     "author": {
         "name": "Bret Doyle"
     },
+    "license": "LICENSE.md",
     "engines": {
         "vscode": "^1.63.0"
     },
